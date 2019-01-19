@@ -1,0 +1,10 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - HelloModules",
+      "request": "launch",
+      "mainClass": "research.wayne.jpmshello/research.wayne.jpmshello.HelloModules"
+    }
+  ]
+}
