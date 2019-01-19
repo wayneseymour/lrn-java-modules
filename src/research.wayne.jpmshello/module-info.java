@@ -1,3 +1,3 @@
 module research.wayne.jpmshello {
-  requires java.base;
+  requires java.xml;
 }
